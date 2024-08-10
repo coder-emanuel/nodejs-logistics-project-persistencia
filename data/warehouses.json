@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Central Warehouse",
+    "location": "123 Main St"
+  },
+  {
+    "id": 2,
+    "name": "East Warehouse",
+    "location": "456 East St"
+  },
+  {
+    "id": 3,
+    "name": "West Warehouse",
+    "location": "789 West St"
+  },
+  {
+    "id": 4,
+    "name": "North Warehouse",
+    "location": "101 North St"
+  },
+  {
+    "id": 5,
+    "name": "South Warehouse",
+    "location": "202 South St"
+  }
+]

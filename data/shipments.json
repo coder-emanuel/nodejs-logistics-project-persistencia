@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "item": "Electronics",
+    "quantity": 50,
+    "warehouseId": 1
+  },
+  {
+    "id": 2,
+    "item": "Furniture",
+    "quantity": 20,
+    "warehouseId": 2
+  },
+  {
+    "id": 3,
+    "item": "Clothing",
+    "quantity": 100,
+    "warehouseId": 3
+  },
+  {
+    "id": 4,
+    "item": "Books",
+    "quantity": 200,
+    "warehouseId": 4
+  },
+  {
+    "id": 5,
+    "item": "Toys",
+    "quantity": 75,
+    "warehouseId": 5
+  }
+]

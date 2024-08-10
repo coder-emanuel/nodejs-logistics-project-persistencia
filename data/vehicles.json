@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "model": "Ford F-150",
+    "year": 2020,
+    "driverId": 1
+  },
+  {
+    "id": 2,
+    "model": "Chevrolet Silverado",
+    "year": 2019,
+    "driverId": 2
+  },
+  {
+    "id": 3,
+    "model": "Ram 1500",
+    "year": 2021,
+    "driverId": 3
+  },
+  {
+    "id": 4,
+    "model": "Toyota Tacoma",
+    "year": 2018,
+    "driverId": 4
+  },
+  {
+    "id": 5,
+    "model": "Honda Ridgeline",
+    "year": 2022,
+    "driverId": 5
+  }
+]
